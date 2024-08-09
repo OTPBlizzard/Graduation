@@ -1,0 +1,23 @@
+{
+  "greeting": "¡Hola!",
+  "name": "Michel",
+  "greetingText": "Espero que te encuentres muy bien!",
+  "wishText": "Disculpa por el pequeño retraso! ;)",
+  "imagePath": "img/michel.png",
+  "text1": "Te gradusaste! que felicidad! :D",
+  "textInChatBox": "¡Felicidades! Te mereces esto y mucho más... 💖",
+  "sendButtonLabel": "Enviar",
+  "text2": "Espero que la hayas pasado súper bien.",
+  "text3": "Tambien queria decirte...",
+  "text4": "Que eres una persona muy",
+  "text4Adjective": "Especial",
+  "text5Entry": "¿Porque?",
+  "text5Content": "Tu eres especial 💖",
+  "smiley": ":)",
+  "bigTextPart1": "MU",
+  "bigTextPart2": "Y",
+"wishHeading": "¡Felicidades!",
+  "outroText": "¿Dime si te gusto? ",
+  "replayText": "haz clic si quieres verlo de nuevo",
+  "outroSmiley": ":)"       
+}
